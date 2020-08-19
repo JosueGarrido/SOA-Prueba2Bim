@@ -3,13 +3,69 @@
 		"titulo": "Avengers Infinity War",
 		"genero": "ciencia ficcion",
 		"idioma": "Ingles", 
-		"duracion": "02:40:15",
+		"duracion": 02:40:15,
 		"calificacion": 7.5,
 		"resumen":"Mientras los Vengadores y sus aliados continúan protegiendo al mundo de grandes amenazas, un nuevo peligro emerge de las sombras cósmicas: Thanos.",
 		"anio_produccion": 2018, 
 		"formato": "DVD",
 		"director": [
 			"Anthony Russo", "Joe Russo"
+		],
+		"clasificacion":"B"
+	},
+	{
+		"titulo": "Ant-Man and the Wasp",
+		"genero": "ciencia ficcion",
+		"idioma": "Ingles", 
+		"duracion": 02:05:40,
+		"calificacion": 6,
+		"resumen":"Después de los sucesos de Capitán América: Civil War, Scott Lang intenta equilibrar su vida hogareña como padre con sus responsabilidades como Ant-Man, cuando Hope van Dyne y Hank Pym le presentan una nueva misión, que le obliga a asociarse con Van Dyne como la nueva Wasp.",
+		"anio_produccion": 2018, 
+		"formato": "DVD",
+		"director": [
+			"Peyton Reed"
+		],
+		"clasificacion":"B"
+	},
+	{
+		"titulo": "Capitana Marvel",
+		"genero": "ciencia ficcion",
+		"idioma": "Ingles", 
+		"duracion": 02:05:25,
+		"calificacion": 5.9,
+		"resumen":"Ambientada en la década de 1990, Capitana Marvel sigue a Carol Danvers, una piloto de las fuerzas armadas de los Estados Unidos, que tras un sufrir accidente que le otorga habilidades sobrehumanas, se convertirá en una de los heroínas más poderosas de la galaxia, después de que deba detener un conflicto intergaláctico entre dos razas alienígenas, los Kree y los Skrull.",
+		"anio_produccion": 2019, 
+		"formato": "DVD",
+		"director": [
+			"Anna Boden", "Ryan Fleck"
+		],
+		"clasificacion":"B"
+	},
+	{
+		"titulo": "Avengers Endgame",
+		"genero": "ciencia ficcion",
+		"idioma": "Ingles", 
+		"duracion": 03:02:15,
+		"calificacion": 7.4,
+		"resumen":"Los Vengadores restantes deben encontrar una manera de recuperar a sus aliados para un enfrentamiento épico con Thanos, el malvado que diezmó el planeta y el universo.",
+		"anio_produccion": 2019, 
+		"formato": "DVD",
+		"director": [
+			"Anthony Russo", "Joe Russo"
+		],
+		"clasificacion":"B"
+	},
+	{
+		"titulo": "Spider-Man Lejos de casa",
+		"genero": "ciencia ficcion",
+		"idioma": "Ingles", 
+		"duracion": 02:09:35,
+		"calificacion": 6.3,
+		"resumen":"Peter Parker decide pasar unas merecidas vacaciones en Europa junto a MJ, Ned y el resto de sus amigos. Sin embargo, Peter debe volver a ponerse el traje de Spider-Man cuando Nick Fury le encomienda una nueva misión: frenar el ataque de unas criaturas que están causando el caos en el continente.",
+		"anio_produccion": 2019, 
+		"formato": "DVD",
+		"director": [
+			"Jon Watts"
 		],
 		"clasificacion":"B"
 	}
